@@ -1,1 +1,9 @@
-practicing pushing, lets see
+
+print("Colors I have to paint my house")
+colors =['yellow', 'purple', 'orange', 'blue', 'pink', 'green', 'seafoam', 'turqoise']
+print(colors[::-1])
+closet = colors[1:3]
+print("Colors I have painted my Closet")
+print(closet)
+
+
